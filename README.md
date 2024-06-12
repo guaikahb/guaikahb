@@ -57,8 +57,7 @@
 
 <!-- footer -->
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=320&&section=header&text=GuaikaHb&fontSize=80&fontAlign=50&fontAlignY=31&desc=违背的青春&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
