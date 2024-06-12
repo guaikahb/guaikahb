@@ -59,5 +59,6 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+  
 </p>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
