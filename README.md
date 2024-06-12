@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=320&&section=header&text=GuaikaHb&fontSize=80&fontAlign=50&fontAlignY=31&desc=违背的青春&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-
 </p>
 
 <p align="center">
@@ -32,7 +31,7 @@
 <!-- 图标 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,javascript,html,css,blender,d3,linux,md,mysql,nginx,react,vue,sass,tailwind,vercel,webpack" />
+    <img src="https://skillicons.dev/icons?i=github,javascript,d3,linux,md,mysql,nginx,react,vue,sass,tailwind,vercel,webpack" />
   </a>
 </p>
 
@@ -58,7 +57,5 @@
 <!-- footer -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-  
+<img src="https://capsule-render.vercel.app/api?type=Wave&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=80&fontAlign=50&fontAlignY=75&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=45&animation=twinkling" />
 </p>
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=320&&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=My wish is for world peace&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
